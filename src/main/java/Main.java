@@ -5,5 +5,8 @@ public class Main {
 
         System.out.println();
         System.out.println("Druga linia.");
+
+        System.out.println();
+        System.out.println("Trzecia linia.");
     }
 }
